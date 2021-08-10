@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Kien Tran",
+    "occupation": "Computer Science Student",
+    "description": "Proficient in React, Next, Express",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Kien! I've been coding for nearly 3 years now. As a Full Stack developer I've developed a comprehensive understanding of Javascript, Python programming language. Proficient in working with different frameworks such as React, Next, Express, Flask",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "email": "dkien3202@gmail.com",
+    "phone": "+9294356835",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "198 College Hill Road",
+      "city": "New York",
+      "state": "New York",
+      "zip": "13323"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=100006404467962",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/kien-tran-6615b3216",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/kien_tr32/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/kitan23/",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +48,96 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Hamilton College - USA",
+        "degree": "Bachelor's Degree, Computer Science, Economics",
+        "graduated": "Expected: 2025",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "1st Runner-Up Of Vietnam Round - Battle of Minds 2021",
+        "title": "Chief Technology Officer",
+        "years": "August 2021",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
+        "level": "70%"
       },
       {
         "name": "Python",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "80%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Netflix Clone (ReactJs)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "netflix.png",
+        "url": "https://kitan23.github.io/movies-info/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Covid Tracker (ReactJs)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "covid-tracker.png",
+        "url": "https://covid-tracker-43755.web.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Airbnb Clone (NextJs)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-mu-five.vercel.app/"
+      },
+      {
+        "title": "Full Stack Note App",
+        "category": "",
+        "image": "note-app1.png",
+        "url": "https://condescending-ride-d0b655.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone (ReactJs)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://clone-2249b.web.app/"
+      },
+      {
+        "title": "Chat Room (ReactJs)",
+        "category": "",
+        "image": "chat-room.png",
+        "url": "https://chat-room-react-b256d.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Testimonial",
+         "user": "To Be Updated"
       }
     ]
   }

@@ -15,15 +15,27 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    var work = data.work.map(function (work) {
+    // var work = data.work.map(function (work) {
+    //   return (
+    //     <div key={work.company}>
+    //       <h3>{work.company}</h3>
+    //       <p className="info">
+    //         {work.title}
+    //         <span>&bull;</span> <em className="date">{work.years}</em>
+    //       </p>
+    //       <p>{work.description}</p>
+    //     </div>
+    //   );
+    // });
+    var exp = data.experience.map(function (exp) {
       return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
+        <div key={exp.company}>
+          <h3>{exp.company}</h3>
           <p className="info">
-            {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            {exp.title}
+            <span>&bull;</span> <em className="date">{exp.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>{exp.description}</p>
         </div>
       );
     });
@@ -57,11 +69,11 @@ const Resume = ({ data }) => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>Work</span>
+            <span>Experience</span>
           </h1>
         </div>
 
-        <div className="nine columns main-col">{work}</div>
+        <div className="nine columns main-col">{exp}</div>
       </div>
 
       <div className="row skill">
