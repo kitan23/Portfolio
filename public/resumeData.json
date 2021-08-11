@@ -4,13 +4,13 @@
     "occupation": "Computer Science Student",
     "description": "Proficient in React, Next, Express",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Kien! I've been coding for nearly 3 years now. As a Full Stack Developer, I've developed a comprehensive understanding of Javascript and Python programming language. I'm also proficient in working with different frameworks such as React, Next, Express, Flask.",
+    "bio": "Hi there! I am Kien! I've been coding for nearly 3 years now. As a Full Stack Developer, I've developed a solid understanding of Javascript and Python programming language. I'm also proficient in working with different frameworks such as React, Next, Express, and Flask.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
     "email": "dkien3202@gmail.com",
     "phone": "+9294356835",
     "address": {
       "street": "198 College Hill Road",
-      "city": "New York",
+      "city": "Clinton",
       "state": "New York",
       "zip": "13323"
     },
@@ -60,7 +60,20 @@
         "title": "Chief Technology Officer",
         "years": "August 2021",
         "description": ""
+      },
+      {
+        "company": "Finalist in 2020 ASEAN-wide Ending Plastic Pollution Innovation Challenge",
+        "title": "Mobile App Developer and Software Coordinator",
+        "years": "September 2020",
+        "description": ""
+      },
+      {
+        "company": "Finalist in Business Challenge",
+        "title": "Web Developer and IT",
+        "years": "April 2021",
+        "description": ""
       }
+
     ],
     "work": [
       {
